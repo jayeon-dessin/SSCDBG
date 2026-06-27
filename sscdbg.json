@@ -4,7 +4,7 @@
     "title": "Drunten im Unterland",
     "year": 1836,
     "artist" : "슈바벤 민요",
-    "language" : "독일어",
+    "language" : ["독일어"],
     "tags": ["독일", "민요", "번안"],
     "memo": "https://jdessin.tistory.com/24",
     "youtube": [
@@ -23,7 +23,7 @@
     "title": "Machu Picchu",
     "year": 1980,
     "artist" : "Dschinghis Khan",
-    "language" : "독일어",
+    "language" : ["독일어"],
     "tags": ["독일", "디스코"],
     "memo": "https://jdessin.tistory.com/63",
     "youtube": [
@@ -38,7 +38,7 @@
     "title": "Moskau",
     "year": 1979,
     "artist" : "Dschinghis Khan",
-    "language" : "독일어",
+    "language" : ["독일어"],
     "tags": ["독일", "디스코"],
     "memo": "",
     "youtube": [
@@ -53,13 +53,28 @@
     "title": "Nur ein Wort",
     "year": 2005,
     "artist" : "Wir sind Helden",
-    "language" : "독일어",
+    "language" : ["독일어"],
     "tags": ["독일", "팝"],
     "memo": "",
     "youtube": [
       {
         "title": "MV",
         "url": "https://www.youtube.com/watch?v=X5kmM98iklo"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The girl from Ipanema",
+    "year": 1964,
+    "artist" : "Antônio Carlos Jobim",
+    "language" : ["포르투갈어", "영어"],
+    "tags": ["브라질", "보사노바"],
+    "memo": "https://jdessin.tistory.com/25",
+    "youtube": [
+      {
+        "title": "음원",
+        "url": "https://www.youtube.com/watch?v=N-TKOh0zsvU"
       }
     ]
   }
