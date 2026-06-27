@@ -28,7 +28,7 @@ function makeArtistFilter() {
 }
 
 function makeLanguageFilter() {
-  const languages = [...new Set(songs.map(song => song.language))];
+  const languages = [...new Set(songs.flatMap(song => song.language))];
 
   languages.sort();
 
@@ -52,7 +52,10 @@ function applyFilters() {
       return false;
     }
 
-    if (selectedLanguage !== "all" && song.language !== selectedLanguage) {
+    if (
+      selectedLanguage !== "all" &&
+      !song.language.includes(selectedLanguage)
+    ) {
       return false;
     }
 
@@ -72,7 +75,7 @@ function renderSongs(songArray) {
       <h2>${song.id}. ${song.title}</h2>
       <p>Artist: ${song.artist}</p>
       <p>Year: ${song.year}</p>
-      <p>Language: ${song.language}</p>
+      <p>Language: ${song.language.join(", ")}</p>
       <p>Tags: ${song.tags.join(", ")}</p>
 
       ${
@@ -83,11 +86,9 @@ function renderSongs(songArray) {
 
       <div>
         ${song.youtube
-          .map(
-            video => `
-              <a href="${video.url}" target="_blank">${video.title}</a>
-            `
-          )
+          .map(video => `
+            <a href="${video.url}" target="_blank">${video.title}</a>
+          `)
           .join("<br>")}
       </div>
 
