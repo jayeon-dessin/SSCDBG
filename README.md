@@ -1,2 +1,2 @@
-# SSCDBG
+# SSCWEB
 sesochat
