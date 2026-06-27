@@ -1,23 +1,19 @@
 [
   {
     "id": 1,
-    "title": "Drunten im Unterland",
-    "year": 1836,
-    "artist" : "슈바벤 민요",
+    "title": "Dschinghis Khan",
+    "year": 1979,
+    "artist" : "Dschinghis Khan",
     "language" : ["독일어"],
-    "tags": ["독일", "민요", "번안"],
-    "memo": "https://jdessin.tistory.com/24",
+    "tags": ["독일", "디스코", "몽골"],
+    "memo": "디스코 밴드 징기스 칸의 동명의 대표곡. 몽골의 정복자 칭기즈 칸(징기스 칸)에 관한 노래",
     "youtube": [
       {
-        "title": "Studiochor Berlin",
-        "url": "https://www.youtube.com/watch?v=XLI1UF8udfI"
-      },
-      {
-        "title": "Vreni & Rudi",
-        "url": "https://www.youtube.com/watch?v=VV33wq7S0xk"
+        "title": "ZDF Starparade 14.06.1979",
+        "url": "https://www.youtube.com/watch?v=1AXlVZRpweI"
       }
     ]
-  },
+  }
   {
     "id": 2,
     "title": "Machu Picchu",
@@ -25,7 +21,7 @@
     "artist" : "Dschinghis Khan",
     "language" : ["독일어"],
     "tags": ["독일", "디스코"],
-    "memo": "https://jdessin.tistory.com/63",
+    "memo": "징기스 칸의 덜 유명한 곡. 잉카 문명의 몰락에 관한 전설에 관해 노래한다.\\nhttps://jdessin.tistory.com/63",
     "youtube": [
       {
         "title": "인트로 포함 풀버전",
@@ -40,7 +36,7 @@
     "artist" : "Dschinghis Khan",
     "language" : ["독일어"],
     "tags": ["독일", "디스코"],
-    "memo": "",
+    "memo": "징기스 칸의 또다른 대표곡. 주제는 모스크바, 때문에 러시아 곡으로 오해받기도 한다.",
     "youtube": [
       {
         "title": "ZDF Starparade 14.06.1979",
@@ -50,12 +46,27 @@
   },
   {
     "id": 4,
+    "title": "Pistolero",
+    "year": 1981,
+    "artist" : "Dschinghis Khan",
+    "language" : ["독일어"],
+    "tags": ["독일", "디스코"],
+    "memo": "징기스 칸의 덜 유명한 곡. 서부 개척시대의 멕시코를 주제로 한다.",
+    "youtube": [
+      {
+        "title": "Die Pyramide 26.01.1981",
+        "url": "https://www.youtube.com/watch?v=UiyB1PriUus"
+      }
+    ]
+  },
+  {
+    "id": 5,
     "title": "Nur ein Wort",
     "year": 2005,
     "artist" : "Wir sind Helden",
     "language" : ["독일어"],
     "tags": ["독일", "팝"],
-    "memo": "",
+    "memo": "중독성 있는 독일 팝. 역재생한 뮤직비디오가 특이하다.",
     "youtube": [
       {
         "title": "MV",
@@ -64,13 +75,13 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "The girl from Ipanema",
     "year": 1964,
     "artist" : "Antônio Carlos Jobim",
     "language" : ["포르투갈어", "영어"],
     "tags": ["브라질", "보사노바"],
-    "memo": "https://jdessin.tistory.com/25",
+    "memo": "보사노바의 전설 조빙의 대표곡. \nhttps://jdessin.tistory.com/25",
     "youtube": [
       {
         "title": "음원",
@@ -79,13 +90,13 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Dragostea din tei",
     "year": 2003,
     "artist" : "O-Zone",
     "language" : ["루마니아어"],
-    "tags": ["루마니아", "댄스"],
-    "memo": "https://jdessin.tistory.com/27",
+    "tags": ["몰도바", "댄스"],
+    "memo": "'누마누마', 몰도바 최고의 글로벌 히트곡. \nhttps://jdessin.tistory.com/27",
     "youtube": [
       {
         "title": "MV",
@@ -94,6 +105,100 @@
       {
         "title": "음원",
         "url": "https://www.youtube.com/watch?v=f7P5Q2IIT4U"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Griechischer Wein",
+    "year": 1974,
+    "artist" : "Udo Jürgens",
+    "language" : ["독일어"],
+    "tags": ["오스트리아", "팝"],
+    "memo": "서독의 그리스인 노동자들의 애환을 담은 곡. 독일인들의 국민가요 중 하나.",
+    "youtube": [
+      {
+        "title": "ZDF Disco 01.02.1975",
+        "url": "https://www.youtube.com/watch?v=D8hAhqDcVRA"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Canopée",
+    "year": 2017,
+    "artist" : "Polo&Pan",
+    "language" : ["프랑스어"],
+    "tags": ["프랑스", "일렉트로닉"],
+    "memo": "자연으로의 회귀 + 전자음악. https://jdessin.tistory.com/45",
+    "youtube": [
+      {
+        "title": "MV",
+        "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Ani Kuni",
+    "year": 2021,
+    "artist" : "Polo&Pan",
+    "language" : ["아라파호어"],
+    "tags": ["프랑스", "일렉트로닉"],
+    "memo": "미국 와이오밍/오클라호마 지역 원주민 아라파호족의 멜로디를 차용한 전자음악.",
+    "youtube": [
+      {
+        "title": "MV",
+        "url": "https://www.youtube.com/watch?v=ootQs7sVulY"
+      }
+    ]
+  },
+    {
+    "id": 11,
+    "title": "Comme d'habitude",
+    "year": 1967,
+    "artist" : "Claude François",
+    "language" : ["프랑스어"],
+    "tags": ["프랑스", "샹송"],
+    "memo": "",
+    "youtube": [
+      {
+        "title": "Lyric Video",
+        "url": "https://www.youtube.com/watch?v=qjpRSREHX1Y"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "ça pik un peu quand même",
+    "year": 2026,
+    "artist" : "Miki",
+    "language" : ["프랑스어"],
+    "tags": ["프랑스", "일렉트로팝"],
+    "memo": "프랑스-한국 혼혈 싱어송라이터 miki의 곡. 뮤비가 인상적(?)임.",
+    "youtube": [
+      {
+        "title": "MV",
+        "url": "https://www.youtube.com/watch?v=s1At5s0YLSs"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Drunten im Unterland",
+    "year": 1836,
+    "artist" : "슈바벤 민요",
+    "language" : ["독일어"],
+    "tags": ["독일", "민요", "번안"],
+    "memo": "독일 슈바벤 지방의 민요. 한국어 번안곡명은 '옹달샘'. \nhttps://jdessin.tistory.com/24",
+    "youtube": [
+      {
+        "title": "Studiochor Berlin",
+        "url": "https://www.youtube.com/watch?v=XLI1UF8udfI"
+      },
+      {
+        "title": "Vreni & Rudi",
+        "url": "https://www.youtube.com/watch?v=VV33wq7S0xk"
       }
     ]
   }
