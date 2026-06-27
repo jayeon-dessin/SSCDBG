@@ -21,7 +21,13 @@
     "artist" : "Dschinghis Khan",
     "language" : ["독일어"],
     "tags": ["독일", "디스코"],
-    "memo": "징기스 칸의 덜 유명한 곡. 잉카 문명의 몰락에 관한 전설에 관해 노래한다.\\nhttps://jdessin.tistory.com/63",
+    "memo": "징기스 칸의 덜 유명한 곡. 잉카 문명의 몰락에 관한 전설에 관해 노래한다.",
+    "links": [
+      {
+        "title": "블로그 해설",
+        "url": "https://jdessin.tistory.com/63"
+      }
+    ],
     "youtube": [
       {
         "title": "인트로 포함 풀버전",
@@ -81,7 +87,13 @@
     "artist" : "Antônio Carlos Jobim",
     "language" : ["포르투갈어", "영어"],
     "tags": ["브라질", "보사노바"],
-    "memo": "보사노바의 전설 조빙의 대표곡. \nhttps://jdessin.tistory.com/25",
+    "memo": "보사노바의 전설 조빙의 대표곡.",
+    "links": [
+      {
+        "title": "블로그 해설",
+        "url": "https://jdessin.tistory.com/25"
+      }
+    ],
     "youtube": [
       {
         "title": "음원",
@@ -96,7 +108,13 @@
     "artist" : "O-Zone",
     "language" : ["루마니아어"],
     "tags": ["몰도바", "댄스"],
-    "memo": "'누마누마', 몰도바 최고의 글로벌 히트곡. \nhttps://jdessin.tistory.com/27",
+    "memo": "'누마누마', 몰도바 최고의 글로벌 히트곡.",
+    "links": [
+      {
+        "title": "블로그 해설",
+        "url": "https://jdessin.tistory.com/27"
+      }
+    ],
     "youtube": [
       {
         "title": "MV",
@@ -130,8 +148,13 @@
     "artist" : "Polo&Pan",
     "language" : ["프랑스어"],
     "tags": ["프랑스", "일렉트로닉"],
-    "memo": "자연으로의 회귀 + 전자음악. https://jdessin.tistory.com/45",
-    "youtube": [
+    "memo": "자연으로의 회귀 + 전자음악.",
+    "links": [
+      {
+        "title": "블로그 해설",
+        "url": "https://jdessin.tistory.com/45"
+      }
+    ],"youtube": [
       {
         "title": "MV",
         "url": "https://www.youtube.com/watch?v=f5IruTV-LGQ"
@@ -190,8 +213,13 @@
     "artist" : "슈바벤 민요",
     "language" : ["독일어"],
     "tags": ["독일", "민요", "번안"],
-    "memo": "독일 슈바벤 지방의 민요. 한국어 번안곡명은 '옹달샘'. \nhttps://jdessin.tistory.com/24",
-    "youtube": [
+    "memo": "독일 슈바벤 지방의 민요. 한국어 번안곡명은 '옹달샘'.",
+    "links": [
+      {
+        "title": "블로그 해설",
+        "url": "https://jdessin.tistory.com/24"
+      }
+    ],"youtube": [
       {
         "title": "Studiochor Berlin",
         "url": "https://www.youtube.com/watch?v=XLI1UF8udfI"

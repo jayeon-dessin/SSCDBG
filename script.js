@@ -84,6 +84,21 @@ function renderSongs(songArray) {
         : ""
       }
 
+      ${song.memo ? `<p><strong>Memo:</strong> ${song.memo}</p>` : ""}
+
+      ${
+        song.links && song.links.length > 0
+          ? `
+            <p><strong>관련 링크:</strong></p>
+            ${song.links
+              .map(
+                link => `<a href="${link.url}" target="_blank">${link.title}</a>`
+              )
+              .join("<br>")}
+          `
+          : ""
+      }
+
       <div>
         ${song.youtube
           .map(video => `
