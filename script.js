@@ -4,7 +4,7 @@ const artistFilter = document.getElementById("artist-filter");
 const languageFilter = document.getElementById("language-filter");
 const songList = document.getElementById("song-list");
 
-fetch("sscdbg.json")
+fetch("sscdbg.json?v=${Date.now()}")
   .then(response => response.json())
   .then(data => {
     songs = data;
