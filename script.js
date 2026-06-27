@@ -80,8 +80,8 @@ function renderSongs(songArray) {
 
       ${
         song.memo
-          ? `<p>Memo: <a href="${song.memo}" target="_blank">링크</a></p>`
-          : ""
+        ? `<p>Memo: ${song.memo}</p>`
+        : ""
       }
 
       <div>
